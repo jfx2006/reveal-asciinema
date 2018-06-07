@@ -1,3 +1,5 @@
+# moved to gitlab.com/jfx2006/reveal-asciinema 2018-06-07
+
 
 # reveal-asciinema
 
